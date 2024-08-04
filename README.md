@@ -11,15 +11,12 @@ Before running the application, make sure you have the following installed:
 
 ## Installation
 
-1. Clone the repository or download the source code.
+1. git clone https://github.com/vykanand/ai-help.git
 2. Open a terminal and navigate to the project directory.
+3. Browse utils folder and paste GEMINI API KEY from - // Get your API key from https://makersuite.google.com/app/apikey
 3. Run the following command to install the required dependencies:
 
-Browse utils folder and paste GEMINI API KEY from - // Get your API key from https://makersuite.google.com/app/apikey
-
-## Usage
-
-To start the application, run the following command in your terminal:
+4. To start the application, run the following command in your terminal:
 ```
 npm install .
 
