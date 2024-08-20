@@ -1,7 +1,7 @@
 # ai-help
 
-ai-help is a command-line interface (CLI) application that allows you to interact with an AI model and get responses to your questions. It uses the `gemini-pro` model from the `genAI` library.
-
+ai-help is a npm command-line interface (CLI) application that allows you to interact with an AI model and get responses to your questions. It uses the `gemini-pro` model from the `genAI` library.
+Now directly ask questions on your windows/bash terminal to ai and get answers from Google gemini model.
 ## Prerequisites
 
 Before running the application, make sure you have the following installed:
@@ -16,11 +16,14 @@ Before running the application, make sure you have the following installed:
 3. Browse utils folder and paste GEMINI API KEY from - // Get your API key from https://makersuite.google.com/app/apikey
 3. Run the following command to install the required dependencies:
 
-4. To start the application, run the following command in your terminal:
+npm install npm i ai-help-tool
+
+4. To clone from Github and start the application, run the following command in your terminal:
 ```
-npm install .
+git clone https://github.com/vykanand/ai-help.git && cd ./ai-help && npm install .
 
 ```
+
 
 Now in the cmd or bash terminal you can run the ai agent and ask your questions and get answers in terminal.
 type this command
